@@ -1,0 +1,5 @@
+-- Al-Muhandis LMS — Phase 1 baseline
+-- The Phase 1 database foundation is already provisioned on Supabase.
+-- This baseline marker intentionally contains no DDL so it cannot recreate or
+-- destroy the existing database. Future schema changes must use forward Prisma
+-- migrations reviewed against the canonical Prisma schema.
